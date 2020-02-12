@@ -1,1 +1,4 @@
-# hello-world my name is grace muringo, I have pursued a bachelors in business Information Technology from Taita Taveta University. I have worked as an Attachee under the county gorvernment of Nyeri and later one absorbed as an ICT instructor under the county gorvernment in Gathuthi Vocational Training College. I am currently working as an intern in Stawitech Technologies.
+# hello-world my
+name is grace muringo, 
+I have pursued a bachelors in business Information Technology from Taita Taveta University
+i am code python,now php i am loving it
